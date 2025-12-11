@@ -15,6 +15,7 @@ It uses a trained machine learning model to generate predictions instantly, all 
 
 👉 https://diabetes-prediction-ixtwehdx5ekeoe2zfzybbf.streamlit.app/
 
+
  ### App Image
 <img width="1327" height="721" alt="Diabetes app" src="https://github.com/user-attachments/assets/f116023d-1196-4995-ba77-5ae1282c2de0" />
 
